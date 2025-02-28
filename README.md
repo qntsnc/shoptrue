@@ -3,7 +3,7 @@
 1. Клонируйте репозиторий:
     ```
     git clone https://github.com/qntsnc/shop
-    cd my-online-store
+    cd shop
     ```
 
 2. Установите зависимости (рекомендуется создать виртуальное окружение):
