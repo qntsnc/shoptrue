@@ -2,7 +2,7 @@
 
 1. Клонируйте репозиторий:
     ```
-    git clone https://github.com/qntsnc/shop
+    git clone https://github.com/qntsnc/shoptrue
     cd shop
     ```
 
